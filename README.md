@@ -8,9 +8,6 @@ If you want to know more about me, you can visit my personal website: [shervinch
 
 ![Gmail](https://img.shields.io/badge/shervinchen@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/shervinchen-07C160?style=flat&logo=wechat&logoColor=white)
-
-## Social
-
 [![LinkedIn](https://img.shields.io/badge/shervinchen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervinchen/)
 [![Twitter](https://img.shields.io/badge/shervinchen-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shervinchen)
 
