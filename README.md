@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact Me</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Skill</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Statistic</h2>
+<h2 align="left">Github Stats</h2>
 
 ###
 
