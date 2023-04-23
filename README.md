@@ -2,6 +2,8 @@
 
 My name is Shervin Chen and I'm a full-stack web developer, specializing in front-end development, and passionate about improving user experience.
 
+If you want to know more about me, you can visit my personal website: [shervinchen.com](https://shervinchen.com)
+
 ## Contact Me
 
 ![Gmail](https://img.shields.io/badge/shervinchen@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
