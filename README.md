@@ -56,6 +56,8 @@ My name is Shervin Chen and I'm a full-stack web developer, specializing in fron
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shervinchen&locale=en&hide_title=false&theme=monokai&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shervinchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shervinchen&locale=en&hide_title=false&theme=monokai&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
