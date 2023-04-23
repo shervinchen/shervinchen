@@ -60,6 +60,3 @@ If you want to know more about me, you can visit my personal website: [shervinch
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shervinchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shervinchen&locale=en&hide_title=false&theme=monokai&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
