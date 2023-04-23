@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="left" style="display: flex;align-items: center;">
   <a href="mailto:shervinchen@gmail.com" target="_blank" style="display: inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="left" style="display: flex;align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
