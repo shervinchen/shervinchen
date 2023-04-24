@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=shervinchen&label=Profile+Views)
+
 # Hi there 👋
 
 My name is Shervin Chen and I'm a full-stack web developer, specializing in front-end development, and passionate about improving user experience.
