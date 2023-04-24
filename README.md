@@ -23,6 +23,7 @@ If you want to know more about me, you can visit my personal website: [shervinch
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
 ![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat&logo=Vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
 ![Rollup.js](https://img.shields.io/badge/Rollup.js-EC4A3F?style=flat&logo=rollup.js&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
 ![esbuild](https://img.shields.io/badge/esbuild-FECF02.svg?style=flat&logo=esbuild&logoColor=white)
